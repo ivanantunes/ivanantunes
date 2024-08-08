@@ -3,7 +3,7 @@
 <table>
     <tr style="border-collapse: collapse;">
         <td style="text-align: center;">
-<a href="https://app.daily.dev/ivanantunes"><img src="https://api.daily.dev/devcards/1cd77a0b0bdf4670b86d2cd0feca8e61.png?r=gyv" width="400" alt="Ivan Antunes's Dev Card"/></a>
+<a href="https://app.daily.dev/ivanantunes"><img src="https://api.daily.dev/devcards/v2/Ib6jojnGCMwN5eGIOf9dY.png?r=tq9" width="356" alt="Ivan Antunes's Dev Card"/></a>
         </td>
         <td style="text-align: center;">
             <p align="center">
